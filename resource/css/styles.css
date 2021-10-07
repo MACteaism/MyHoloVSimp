@@ -143,6 +143,16 @@ header {
   background-image: url(../img/bg_green.jpg);
 }
 
+.carousel-caption {
+  font-family: "YuGothic";
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.400);
+}
+
+.carousel-subcaption {
+  font-family: "YuGothicMedium";
+}
+
 footer {
   height: 10vh;
   background-color: #1c1c1c;
